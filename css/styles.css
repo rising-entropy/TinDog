@@ -1,0 +1,190 @@
+#title{
+    background-color: #ff4c68;
+}
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    color: #f4f6ff;
+    line-height: 1.5;
+    font-size: 3rem;
+    text-emphasis: none;
+    padding-bottom: 10px;
+}
+
+.container-fluid{
+    padding: 5% 15%;
+}
+
+#iphone{
+    transform: rotate(30deg);
+    padding-top: 10px;
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-style: none;
+    padding-right: 10px;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 250%;
+    margin-left: 10rem;
+}
+
+nav{
+    padding-bottom: 3px;
+    background-color: #ff4c68;
+}
+
+.nav-item{
+    padding: 0 20px;
+    color: white;
+}
+
+.downbtn{
+    margin-top: 30px;
+    margin-right: 25px;
+    padding-right: 20px;
+}
+
+.feat{
+    text-align: center;
+}
+
+.featoo{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+.icoo{
+    color: #ef8172;
+    padding-bottom: 20px;
+}
+
+.icoo:hover{
+    color: #ff4c68;
+    padding-bottom: 20px;
+}
+
+#features{
+    padding-top: 130px;
+    margin-top: auto;
+    padding-bottom: 5px;
+    background-color: white;
+    position: relative;
+    bottom: 200px;
+    z-index: 2;
+}
+
+.det{
+    color: #8f8f8f
+}
+
+
+#carouselExampleControls{
+    padding-top: 15em;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #ff4c68;
+    font-family: 'Markazi Text', serif;
+    color: #f4f6ff;
+}
+
+.testi-img{
+    border-radius: 50%;
+    width: 14%;
+    margin-top: 5%;
+}
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.testi-text{
+    font-size: 3em;
+}
+
+.press-log{
+    padding: 2px 2%;
+    padding-bottom: 6%;
+}
+
+.card{
+    text-align: center;
+    margin: 50px;
+}
+
+#pricing{
+    font-family: 'Baloo Bhai 2', cursive;
+    padding-bottom: 3em;
+}
+
+.prich{
+    padding-top: 2em;
+    text-align: center;
+    font-size: 300%;
+}
+
+.prichp{
+    text-align: center;
+    font-size: 140%;
+}
+
+@media (max-width: 1153px){
+
+    #title{
+        text-align: center;
+    }
+
+    #iphone{
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+.ctahead{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    color: #f4f6ff;
+    line-height: 1.5;
+    font-size: 3rem;
+    text-emphasis: none;
+    padding-bottom: 10px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.btndown{
+    text-align: center;
+    margin: 10px 50px;
+}
+
+.butt{
+    display: flex;
+    justify-content: center;
+}
+
+#footer{
+    padding-top: 35px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: 'Markazi Text', serif;
+    font-size: 120%;
+}
+
+.soci{
+    padding: 10px;
+    color: black;
+}
